@@ -1,7 +1,8 @@
 import time
 
-version = 1
+version = 2
 
 def main():
-    print(f"version:{version} {time.time()} project is runing")
-    time.sleep(1)
+    while 1:
+        print(f"version:{version} {time.time()} project is runing")
+        time.sleep(1)
