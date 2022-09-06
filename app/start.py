@@ -1,6 +1,6 @@
 import time
 
-version = 1
+version = 2
 
 def main():
     while 1:
