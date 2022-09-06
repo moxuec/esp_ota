@@ -1,4 +1,5 @@
-import time, machine, network, gc, secrets
+import time, machine, network, gc
+from app import secrets
 from ota.ota_updater import OTAUpdater
 
 
